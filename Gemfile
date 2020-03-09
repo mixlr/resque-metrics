@@ -1,6 +1,7 @@
 source "http://rubygems.org"
 
-gem 'resque', '~>1.19'
+gem 'resque'
+
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
